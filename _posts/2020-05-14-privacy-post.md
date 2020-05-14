@@ -1,6 +1,6 @@
 ---
 title: "Privacy of Match&Chat"
-date: 2020-05-04 22:00:00 
+date: 2020-05-04 22:00:00 -0700
 categories: privacy
 ---
 Match&Chat Inc. (hereinafter referred to as "the Company") abides by the related statutes of the privacy protection act and the law regarding the promotion of information and communication network use and protection of information. As an IT service provider, the Company also abides by the relevant matters of the personal information protection laws. Further, the Company is protecting the users interests to the Company's best of abilities by defining this Privacy Policy.
